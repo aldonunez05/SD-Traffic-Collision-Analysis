@@ -31,10 +31,23 @@ This project uses machine learning to analyze traffic collision data from San Di
 ---
 
 ## 📁 File Structure
-📂 SD Traffic Collision Analysis/
-  └── collisions.csv # Processed or raw dataset 📂 notebooks/ 
-  └── san_diego_traffic_analysis.ipynb # Main Jupyter notebook 
-  └── 📄 README.md
+📂 SD-Traffic-Collision-Analysis/
+│
+├── notebooks/
+│   ├── 01_model_tuning.ipynb
+│   ├── 02_model_comparison.ipynb
+│   └── 03_model_explainability.ipynb
+│
+├── data/
+│   └── traffic_collisions_cleaned.csv
+│
+├── models/
+│   └── best_model.pkl
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+
 
 ---
 
