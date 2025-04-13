@@ -42,8 +42,9 @@ This project uses machine learning to analyze traffic collision data from San Di
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/san-diego-traffic-risk.git
-   cd san-diego-traffic-risk
+   git clone https://github.com/your-username/San_Diego_Traffic_Collision_Severity_Prediction.git
+   cd San_Diego_Traffic_Collision_Severity_Prediction
+   
 2. Install dependencies:
    pip install -r requirements.txt
 Launch the notebook:
